@@ -1,0 +1,10 @@
+paddlepaddle
+paddleocr
+easyocr
+opencv-python
+Pillow
+numpy
+googletrans==4.0.0rc1
+deep-translator
+scikit-learn
+scikit-image
